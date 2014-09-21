@@ -1,6 +1,6 @@
-=Getting-and-Cleaning-Data
+Getting-and-Cleaning-Data
 =========================
-==run_analysis.R
+run_analysis.R
 
 The cleanup script (run_analysis.R) does the following:
 
